@@ -1,0 +1,7 @@
+.cover__overlay_link{
+    height: 100%;
+    display: block;
+    text-decoration: none;
+    color: #FFF;
+    z-index: 0;
+}

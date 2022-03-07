@@ -1,0 +1,11 @@
+div section{
+    border: 1px red solid;
+  }
+  body{ 
+      margin: 0px;
+      background: #2A2C2F;
+      font-family: 'Inter', sans-serif;
+  }
+  .page{
+      display: grid;
+  }

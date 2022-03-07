@@ -1,0 +1,28 @@
+.footer__link{
+    color: #FFF;
+    text-decoration: none;
+    margin: 0 18px 0 0;
+}
+@media screen and (max-width: 320px) {
+    .footer__link{
+        margin: 0 0 32px 0;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 24px;
+    }
+}
+.footer__link:nth-of-type(6n){
+    margin-left: auto;
+    margin-right: 0;
+}
+@media screen and (max-width: 320px) {
+    .footer__link:nth-of-type(6n){
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 14px;
+    }
+}
