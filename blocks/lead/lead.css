@@ -6,6 +6,7 @@
     color: #FFF;
     width: 984px;
     align-self: center;
+    overflow:hidden;
 }
 @media screen and (max-width: 1024px) {
     .lead{

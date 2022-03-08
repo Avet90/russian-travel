@@ -3,6 +3,7 @@
     display: grid;
     width: 690px;
     color: #FFF;
+    overflow:hidden;
 }
 @media screen and (max-width: 768px) {
     .intro{

@@ -4,6 +4,7 @@
     height: auto;
     margin: 92px auto 0 auto;
     row-gap: 80px;
+    overflow:hidden;
 }
 @media screen and (max-width: 1024px) {
     .places{
